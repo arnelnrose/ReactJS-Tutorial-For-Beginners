@@ -1,0 +1,9 @@
+OPEN TERMINAL 
+========================
+npm create vite@latest
+YOUR FOLDERNAME: my-app
+>React
+>JavaScript
+>cd my-app
+npm install
+npm run dev
